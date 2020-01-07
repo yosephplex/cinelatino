@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:0,proyecto geminis 2019 sub
+#EXTSIZE: BIG
+#EXTBG: https://i.pinimg.com/236x/e5/a6/14/e5a614adecb6ed227b2f454443b2df80.jpg
+https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt1025100_SUBP_HD.mp4
+
+
 #EXTINF:-1,TOGO
 #EXTSIZE: BIG
 #EXTBG: https://thumbs.gfycat.com/TheseLongDolphin-max-1mb.gif
