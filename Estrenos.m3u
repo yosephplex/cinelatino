@@ -1,5 +1,21 @@
 #EXTM3U
 
+#EXTINF:0,THE WRETCHED
+#EXTSIZE: BIG
+#EXTBG: https://image.tmdb.org/t/p/w185_and_h278_bestv2/zaecdNcjcVDiOcDcgQCOgHELSo0.jpg
+https://storage.googleapis.com/iron-fountain-266419.appspot.com/9x62elR72x1-storage.mp4
+
+#EXTINF:0,EL CAZADOR DE SUEÑOS
+#EXTSIZE: BIG
+#EXTBG: https://static.cegal.es/imagenes/marcadas/9788497/978849759150.gif
+https://storage.googleapis.com/iron-fountain-266419.appspot.com/B7mnoQojoAz.mp4
+
+#EXTINF:-1,LA LIGA JUSTICIA 2019
+#EXTSIZE: BIG
+#EXTBG: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGE-5FbesfsZpryIF-_IXAUe3xCOOGRhErFk-DAzgU1a3GOoXb&usqp=CAU
+https://storage.googleapis.com/emerald-entity-265717.appspot.com/tt11043546_LAT_HD.mp4
+
+
 
 
 #EXTINF:-1,MILAGRO EN LA CELDA N.7, Subt Netflix
@@ -17,10 +33,7 @@ https://storage.googleapis.com/iron-fountain-266419.appspot.com/Damqg6bKBa7.mp4
 #EXTBG: https://38.media.tumblr.com/0bffcbcce526a6e307582f4dd35d04c9/tumblr_n0ato5Aqjb1r0dj6vo10_250.gif
 https://dl.dropboxusercontent.com/s/64v4t3adqh2chcu/Miracle%20in%20Cell%20No.7%20%282013%29%20online.mp4
 
-#EXTINF:-1,LA LIGA JUSTICIA 2019
-#EXTSIZE: BIG
-#EXTBG: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGE-5FbesfsZpryIF-_IXAUe3xCOOGRhErFk-DAzgU1a3GOoXb&usqp=CAU
-https://storage.googleapis.com/emerald-entity-265717.appspot.com/tt11043546_LAT_HD.mp4
+
 
 #EXTINF:-1,PARASITE
 #EXTSIZE: BIG
